@@ -7,9 +7,6 @@ cxx_library(
     'png.h',
     'pngconf.h',
   ],
-  # headers = subdir_glob([
-  #   ('', '*.h'),
-  # ]),
   srcs = [
     'png.c',
     'pngerror.c',
