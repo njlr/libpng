@@ -1,0 +1,6 @@
+{
+  "name": "libpng",
+  "dependencies": {
+    "zlib": "1.2.11"
+  }
+}
